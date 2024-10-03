@@ -6,7 +6,7 @@
 **Desarrollado en:** Lenaguaje: C++ y SO: Windows. 
 **Requisito:** Es necesario tener `g++` para la compilación.  
 
-Este proyecto muestra un triángulo en pantalla usando OpenGL y GLFW, con shaders aplicados para personalizar los colores y el fondo.
+Este proyecto muestra un triángulo 2D en pantalla usando OpenGL y GLFW, con shaders aplicados para creacion y personalizar de los vertices con colores. Tambien posee color de fondo personalizado.
 
 ## Dependencias
 

@@ -6,7 +6,7 @@
 **Desarrollado en:**  Lenguaje: JavaScript, SO: Windows y Navegador: Chorme.
 **Requisito:** Es necesario tener `g++` para la compilación.   
 
-Este proyecto muestra un triángulo 2D en pantalla usando Three.js, con colores de los verticespersonalizados y un fondo específico.
+Este proyecto muestra un triángulo 2D en pantalla usando Three.js, para creacion creacion y personalizar de los vertices con colores. Tambien posee color de fondo personalizado.
 
 ## Dependencias
 El proyecto utiliza las siguientes dependencias, todas instaladas mediante npm:
