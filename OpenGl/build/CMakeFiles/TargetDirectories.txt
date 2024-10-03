@@ -1,3 +1,0 @@
-C:/Users/jonat/OneDrive/Documents/GitHub/CI4321_16-10109/OpenGl/build/CMakeFiles/main.dir
-C:/Users/jonat/OneDrive/Documents/GitHub/CI4321_16-10109/OpenGl/build/CMakeFiles/edit_cache.dir
-C:/Users/jonat/OneDrive/Documents/GitHub/CI4321_16-10109/OpenGl/build/CMakeFiles/rebuild_cache.dir
