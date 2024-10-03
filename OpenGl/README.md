@@ -3,7 +3,7 @@
 **Nombre:** Jonathan Leonardo Bautista Rondón  
 **Carnet:** 16-10109  
 **API:** OpenGL
-**Desarrollado en:** Lenguaje C++ y SO Windows. 
+**Desarrollado en:** Lenaguaje: C++ y SO: Windows. 
 **Requisito:** Es necesario tener `g++` para la compilación.  
 
 Este proyecto muestra un triángulo en pantalla usando OpenGL y GLFW, con shaders aplicados para personalizar los colores y el fondo.
@@ -12,12 +12,12 @@ Este proyecto muestra un triángulo en pantalla usando OpenGL y GLFW, con shader
 
 El proyecto utiliza las siguientes dependencias, todas ubicadas en la carpeta `include` y `lib`:
 
-- **GLFW:** Biblioteca para crear ventanas y gestionar contexto de OpenGL.
-- **GLAD:** Biblioteca para la gestión de funciones de OpenGL.
+- **GLFW:** Biblioteca para crear ventanas y gestionar contexto de OpenGL. [GLFW](https://www.glfw.org) Version 3.4 Para Windows de 64 Bits
+- **GLAD:** Biblioteca para la gestión de funciones de OpenGL. [GLAD](https://glad.dav1d.de) Gl Version 4.0, Profile Core
 
 ## Instrucciones de Compilación
 
-Para compilar el proyecto, asegúrate de tener todas las dependencias ubicadas en las carpetas correctas (`include` y `lib`). Luego, ejecuta el siguiente comando desde la raíz del proyecto:
+Para compilar el proyecto, asegúrate de tener [C++](https://code.visualstudio.com/docs/cpp/config-mingw), y todas las dependencias ubicadas en las carpetas correctas (`include` y `lib`). Luego, ejecuta el siguiente comando desde la raíz del proyecto:
 
 ```bash
 g++ -I./include -L./lib .\src\main.cpp .\src\glad.c -o .\src\main -lglfw3dll
