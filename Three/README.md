@@ -11,8 +11,8 @@ Este proyecto muestra un triángulo 2D en pantalla usando Three.js, para creacio
 ## Dependencias
 El proyecto utiliza las siguientes dependencias, todas instaladas mediante npm:
 
-- **Three.js:** Biblioteca para la creación de gráficos 3D en el navegador.
-- **Vite:** Herramienta de construcción para un desarrollo rápido.
+- **Three.js:** Biblioteca para la creación de gráficos 3D en el navegador [Three](https://threejs.org/docs/index.html#manual/en/introduction/Installation).
+- **Vite:** Herramienta de construcción para un desarrollo rápido [Vite](https://vite.dev).
 
 ## Instrucciones de Instalación
 
