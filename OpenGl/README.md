@@ -1,0 +1,1 @@
+ g++ -I./include -L./lib .\src\main.cpp .\src\glad.c -o .\src\main -lglfw3dll
